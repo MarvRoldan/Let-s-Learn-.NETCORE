@@ -18,6 +18,7 @@ namespace AspNetCoreTodo.Controllers
             _logger = logger;
         }
 
+        // ACTION
         public IActionResult Index()
         {
             return View();

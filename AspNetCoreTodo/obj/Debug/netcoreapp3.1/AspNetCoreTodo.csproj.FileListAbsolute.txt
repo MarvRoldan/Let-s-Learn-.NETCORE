@@ -87,3 +87,4 @@ C:\Users\Marvin\Desktop\Lets-Learn-DOTNC\AspNetCoreTodo\obj\Debug\netcoreapp3.1\
 C:\Users\Marvin\Desktop\Lets-Learn-DOTNC\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.csproj.CopyComplete
 C:\Users\Marvin\Desktop\Lets-Learn-DOTNC\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.dll
 C:\Users\Marvin\Desktop\Lets-Learn-DOTNC\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.pdb
+C:\Users\Marvin\desktop\Lets-Learn-DOTNC\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.csproj.CoreCompileInputs.cache

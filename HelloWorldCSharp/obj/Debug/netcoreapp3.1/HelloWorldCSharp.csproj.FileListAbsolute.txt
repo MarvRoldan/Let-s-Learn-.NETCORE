@@ -1,0 +1,11 @@
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\bin\Debug\netcoreapp3.1\HelloWorldCSharp.exe
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\bin\Debug\netcoreapp3.1\HelloWorldCSharp.deps.json
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\bin\Debug\netcoreapp3.1\HelloWorldCSharp.runtimeconfig.json
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\bin\Debug\netcoreapp3.1\HelloWorldCSharp.runtimeconfig.dev.json
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\bin\Debug\netcoreapp3.1\HelloWorldCSharp.dll
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\bin\Debug\netcoreapp3.1\HelloWorldCSharp.pdb
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\obj\Debug\netcoreapp3.1\HelloWorldCSharp.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\obj\Debug\netcoreapp3.1\HelloWorldCSharp.AssemblyInfoInputs.cache
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\obj\Debug\netcoreapp3.1\HelloWorldCSharp.AssemblyInfo.cs
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\obj\Debug\netcoreapp3.1\HelloWorldCSharp.dll
+C:\Users\Marvin\Desktop\Let's-Learn-.NETCORE\HelloWorldCSharp\obj\Debug\netcoreapp3.1\HelloWorldCSharp.pdb

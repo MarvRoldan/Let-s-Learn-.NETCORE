@@ -21,7 +21,9 @@ namespace AspNetCoreTodo.Controllers
         public async Task<IActionResult> Index()
         {
             var items = await _todoItemService.GetIncompleteItemsAsync();
-
+            // Get to-do item from database.
+            // put items into a model.
+            // Pass the view to a model and render.
             var model = new TodoViewModel()
             {
                 Items = items

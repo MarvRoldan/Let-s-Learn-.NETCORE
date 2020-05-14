@@ -12,6 +12,7 @@ using AspNetCoreTodo.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using AspNetCoreTodo.Services;
 
 namespace AspNetCoreTodo
 {
@@ -34,7 +35,7 @@ namespace AspNetCoreTodo
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
-            services.AddMvc();
+            // services.AddMvc();
             services.AddSingleton<ITodoItemService, FakeTodoItemService>();
         }
 

@@ -17,11 +17,9 @@ namespace AspNetCoreTodo.Controllers
         }
 
         // ACTION
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            // Get to-do items from database
-            // Put items into a model
-            // Render view using the model
+            var items = await _todoItemService.GetIncompleteItemsAsync();
         }
 
     }

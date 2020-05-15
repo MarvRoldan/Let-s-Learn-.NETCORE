@@ -1,10 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Views",
-    "\\Views\\Todo",
-    "\\wwwroot\\css"
+    ""
   ],
-  "SelectedNode": "\\Views\\Todo\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

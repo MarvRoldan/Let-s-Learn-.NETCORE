@@ -37,7 +37,7 @@ namespace AspNetCoreTodo
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddMvc();
-            services.AddSingleton<ITodoItemService, FakeTodoItemService>(); // Dependency Injection
+            services.AddScoped<ITodoItemService, TodoItemService>(); // Dependency Injection
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

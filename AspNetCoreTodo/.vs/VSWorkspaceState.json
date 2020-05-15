@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Views",
-    "\\Views\\Shared"
+    "\\Views\\Todo",
+    "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\Views\\Todo\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

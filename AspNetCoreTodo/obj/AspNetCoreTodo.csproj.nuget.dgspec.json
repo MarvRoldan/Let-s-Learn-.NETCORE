@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marvin\\desktop\\Lets-Learn-DOTNC\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
+    "C:\\Users\\Marvin\\desktop\\Lets-Learn-NETCORE\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marvin\\desktop\\Lets-Learn-DOTNC\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
+    "C:\\Users\\Marvin\\desktop\\Lets-Learn-NETCORE\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marvin\\desktop\\Lets-Learn-DOTNC\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectUniqueName": "C:\\Users\\Marvin\\desktop\\Lets-Learn-NETCORE\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "projectName": "AspNetCoreTodo",
-        "projectPath": "C:\\Users\\Marvin\\desktop\\Lets-Learn-DOTNC\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectPath": "C:\\Users\\Marvin\\desktop\\Lets-Learn-NETCORE\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "packagesPath": "C:\\Users\\Marvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marvin\\desktop\\Lets-Learn-DOTNC\\AspNetCoreTodo\\obj\\",
+        "outputPath": "C:\\Users\\Marvin\\desktop\\Lets-Learn-NETCORE\\AspNetCoreTodo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marvin\\AppData\\Roaming\\NuGet\\NuGet.Config",

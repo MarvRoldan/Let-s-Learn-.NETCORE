@@ -270,3 +270,4 @@ C:\Users\Marvin\desktop\Lets-Learn-NETCORE\AspNetCoreTodo\obj\Debug\netcoreapp3.
 C:\Users\Marvin\desktop\Lets-Learn-NETCORE\AspNetCoreTodo\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreTodo.StaticWebAssets.Manifest.cache
 C:\Users\Marvin\desktop\Lets-Learn-NETCORE\AspNetCoreTodo\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreTodo.StaticWebAssets.xml
 C:\Users\Marvin\desktop\Lets-Learn-NETCORE\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.genruntimeconfig.cache
+C:\Users\Marvin\Desktop\Lets-Learn-NETCORE\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\Todo\AddItemPartial.cshtml.g.cs
